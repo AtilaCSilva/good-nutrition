@@ -1,0 +1,108 @@
+
+/*  SETTING PADRONS */
+:root {
+  /* font-size: 62.5%; */
+  font-size: 70%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #EAEAEA;
+  margin: 1.0rem 2.25rem;  
+}
+
+body * {
+  font-family: 'inter', sans-serif;
+  line-height: 160%;
+}
+
+/*========================  STYLING ==========================*/
+
+.header {
+text-align:  center;
+ 
+}
+
+h1 {
+  margin-bottom: 1rem;
+  font-size-adjust: calc(0.7rem + 0.7rem);
+}
+
+img {
+  border-radius: .8rem;
+  max-width: 70%;
+  
+}
+
+
+
+main {
+  border: 20px solid white;
+  background-color: white;
+  border-radius: .8rem;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 2.5rem;
+
+}
+
+.ingredients h2 {
+  text-align: center;
+  margin: 2.5rem;
+}
+.method h2 {
+  text-align: center;
+  margin: 2.5rem 0;
+}
+
+ul, ol {
+  color: #39393A;
+}
+
+article {
+  color: #39393A;
+}
+
+ul {
+  padding-left: 2.5rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+ol {
+padding: 2.5rem;
+
+display: flex;
+flex-direction: column;
+gap: 2rem;
+}
+
+aside {
+  margin: 2.5rem;
+  padding: 1.5rem;
+  border: 1px solid black;
+border-radius: .6rem;
+}
+
+
+footer {
+  margin: 2.5rem;
+
+  color: #39393A;
+  text-align: center;
+  
+}
+
+footer a {
+  list-style: none;
+  color: #39393A;
+}

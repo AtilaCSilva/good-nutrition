@@ -4,7 +4,7 @@
 ![preview](.github/exemple.png)
 representação da minha versão do projeto
 
-[🔗Clique aqui para acessar](https://atilacsilva.github.io/Good-Nutrition) 
+[🔗Clique aqui para acessar](https://atilacsilva.github.io/good-nutrition) 
 
 ## 🔥Sobre o desafio!
 Nesse desafio você deverá criar uma página web de uma receita com título, imagem, lista de ingredientes e modo de preparo.
